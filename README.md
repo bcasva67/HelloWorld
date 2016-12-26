@@ -1,3 +1,3 @@
 # HelloWorld
-Just getting started
+Just getting started.
 I like home brew.
